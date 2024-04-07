@@ -1,4 +1,4 @@
-#Bulky
+# Bulky
 
 > I have created this project , To engage with .Net 8 and Razor pages . I hope to get great learnings from the project . I will keep improving the project step by step .
 > 
